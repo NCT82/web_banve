@@ -1,0 +1,53 @@
+﻿﻿body {
+}
+
+.header {
+    background-color: black;
+    color: white;
+}
+
+.btn-secondary {
+    background-color: black !important;
+    border: none !important;
+}
+
+.header-1 {
+    padding: 12px 24px;
+}
+
+.dropdown {
+    padding: 10px 24px;
+    display: inline-block;
+    text-decoration: none;
+    position: absolute;
+}
+
+.dropdown:hover {
+    background-color: #ccc;
+    color: black;
+    text-decoration: none;
+}
+
+.btn-secondary:hover {
+    background-color: #ccc !important;
+    color: black !important;
+}
+
+.header-btn {
+    padding: 12px 24px;
+}
+
+    .header-btn:hover {
+        background-color: #ccc;
+        color: black !important;
+    }
+
+.fa {
+    display: block;
+    float: right !important;
+    padding: 14px 24px;
+}
+
+.fa:hover {
+    background-color: red;
+}
