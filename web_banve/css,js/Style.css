@@ -1,9 +1,17 @@
-﻿﻿body {
+﻿body {
+}
+
+.clear{
+    clear:both;
 }
 
 .header {
     background-color: black;
     color: white;
+}
+
+.slideshow{
+    max-width:1920px;
 }
 
 .btn-secondary {
@@ -35,11 +43,14 @@
 
 .header-btn {
     padding: 12px 24px;
+    color:white;
+    text-decoration:none;
 }
 
     .header-btn:hover {
         background-color: #ccc;
         color: black !important;
+        text-decoration:none;
     }
 
 .fa {
@@ -50,4 +61,94 @@
 
 .fa:hover {
     background-color: red;
+}
+
+.title{
+   
+    letter-spacing:6px;
+    font-size:30px;
+}
+
+.ct {
+    padding-top: 64px;
+    padding-bottom: 64px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: inherit;
+    max-width: 800px;
+ 
+}
+
+.slg{
+    opacity:0.60;
+}
+
+.nd {
+    max-width: 800px;
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:15px;
+}
+
+.ct-img {
+    padding-top:32px;
+    padding-bottom:32px;
+
+}
+
+.img {
+    float: left;
+    width:33.33333%;
+    margin-bottom: 64px;
+}
+
+
+.ct2 {
+    background-color: black;
+}
+
+.slg2 {
+    opacity: 0.60;
+    color: white;
+}
+
+.title2 {
+    letter-spacing: 6px;
+    font-size: 30px;
+    color:white;
+}
+
+.line {
+    border-bottom: solid thin #ccc;
+}
+
+.t {
+    text-align: start;
+    padding:7px 0;
+}
+
+.month {
+    background-color: white;
+    list-style: none;
+    border: 1px solid #ccc !important;
+    padding:0 !important;
+   
+}
+
+.ct-tour{
+    padding-top: 64px;
+    padding-bottom: 64px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: inherit;
+    max-width: 800px;
+}
+
+.sold-out {
+    text-align: end;
+    background-color: #f44336;
+    color:white;
 }

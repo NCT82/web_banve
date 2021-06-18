@@ -50,7 +50,45 @@
                     <img src="img/tl9zqbfkxh06bvldvnwh.jpg" style="width:100%" />
                 </div>
              </div>    
-           
+           <div class="ct">
+               <h2 class="title">THE BAND</h2>
+               <p class="slg"> <i>We hate music</i></p>
+               <p class="nd">We have created a fictional band website. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+      ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur
+      adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+               
+               <div class="ct-img">
+                   <div class="img">
+                       <p>Name</p>
+                       <img src="img/202103300606170798adf9c191e928d86114726aaee261.jpg" />
+                   </div>
+                    <div class="img">
+                       <p>Name</p>
+                       <img src="img/202103300606170798adf9c191e928d86114726aaee261.jpg" />
+                   </div>
+                    <div class="img">
+                       <p>Name</p>
+                       <img src="img/202103300606170798adf9c191e928d86114726aaee261.jpg" />
+                   </div>
+               </div>
+                <div class="clear" ></div>
+           </div>
+
+            <div class="ct2"> 
+            <div class="ct-tour">
+               <h2 class="title2">TOUR DATES</h2>
+               <p class="slg2"> <i>Remember to book your tickets!</i></p>
+              <div class="month">
+                  <div class="t line">September <span class="sold-out">Sold out</span></div>
+                  <div class="t line">October <span class="sold-out">Sold out</span></div>
+                  <div class="t">November</div>
+              </div>
+              
+                   
+               </div>
+               
+               
+                </div>
         </div>
     </form>
 </body>
