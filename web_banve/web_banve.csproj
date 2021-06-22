@@ -67,6 +67,13 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="img\202103300606170798adf9c191e928d86114726aaee261.jpg" />
+    <Content Include="img\hero-1.jpg" />
+    <Content Include="img\NY.jpg" />
+    <Content Include="img\paris2.jpg" />
+    <Content Include="img\sanf3.png" />
+    <Content Include="img\sanf2.png" />
+    <Content Include="img\SAO.png" />
+    <Content Include="img\sf.jpg" />
     <Content Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

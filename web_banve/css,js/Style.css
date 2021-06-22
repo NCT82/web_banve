@@ -53,13 +53,13 @@
         text-decoration:none;
     }
 
-.fa {
+.fa2 {
     display: block;
     float: right !important;
     padding: 14px 24px;
 }
 
-.fa:hover {
+.fa2:hover {
     background-color: red;
 }
 
@@ -112,12 +112,14 @@
 .slg2 {
     opacity: 0.60;
     color: white;
+    text-align:center;
 }
 
 .title2 {
     letter-spacing: 6px;
     font-size: 30px;
     color:white;
+    text-align:center;
 }
 
 .line {
@@ -126,7 +128,7 @@
 
 .t {
     text-align: start;
-    padding:7px 0;
+    padding: 8px 16px;
 }
 
 .month {
@@ -140,7 +142,7 @@
 .ct-tour{
     padding-top: 64px;
     padding-bottom: 64px;
-    text-align: center;
+    
     margin-left: auto;
     margin-right: auto;
     box-sizing: inherit;
@@ -152,3 +154,75 @@
     background-color: #f44336;
     color:white;
 }
+
+.sold-out2 {
+    text-align: end;
+    background-color: black;
+    color: white;
+    padding: 1px 8px;
+    border-radius:20px;
+    float:right;
+    margin-right:16px;
+}
+
+
+
+.places-img{
+    max-width:100%;
+}
+
+.places-img:hover {
+    opacity: 0.7;
+}
+
+.places-list {
+    margin: 32px -8px 0;
+    
+}
+
+.places-item {
+    float: left;
+    width: 33.33333%;
+    padding:0 8px; 
+}
+
+.places-body{
+    background-color:white;
+    padding:16px;
+
+}
+
+.btn-buy {
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 8px 10px;
+}
+.btn-buy:hover {
+    background-color: #ccc;
+    color:black;
+    text-decoration:none;
+       
+    }
+
+.ct-dt{
+    text-align:start;
+    list-style:none;
+}
+
+.btn-send{
+    float:right;
+    background-color:black;
+    color:white;
+    padding: 10px 15px;
+    margin-top:10px;
+    margin-right:5px;
+    text-decoration:none;
+}
+
+    .btn-send:hover {
+        background-color: #ccc;
+        color: black;
+        text-decoration:none;
+    }
+

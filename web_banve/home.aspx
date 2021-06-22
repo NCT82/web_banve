@@ -35,7 +35,7 @@
                     <a class="dropdown-item" href="#">Extras</a>
                     <a class="dropdown-item" href="#">Media</a>
                 </div>
-                <a class="fa fa-search w3-right"></a>
+                <a class="fa2 fa fa-search w3-right"></a>
              </div>
              <div>           
                 <div class="slideshow">
@@ -81,15 +81,86 @@
               <div class="month">
                   <div class="t line">September <span class="sold-out">Sold out</span></div>
                   <div class="t line">October <span class="sold-out">Sold out</span></div>
-                  <div class="t">November</div>
+                  <div class="t">November <span class="sold-out2">3</span></div>
               </div>
               
+                   <div class="places-list">
+                <div class="places-item">
+          <img src="/img/NY.jpg" alt="NY" class="places-img"/>
+          <div class="places-body">
+            <p><b>New York</b></p>
+            <p class="slg">Fri 27 Nov 2016</p>
+            <p>Praesent tincidunt sed tellus ut rutrum sed vitae justo.</p>
+              <a href="#" class="btn-buy">Buy Tickets</a>
+          </div>
+        </div>
+               
+                <div class="places-item">
+          <img src="/img/paris2.jpg" alt="NY" class="places-img"/>
+          <div class="places-body">
+            <p><b>Paris</b></p>
+            <p class="slg">Sat 28 Nov 2016</p>
+            <p>Praesent tincidunt sed tellus ut rutrum sed vitae justo.</p>
+              <a href="#" class="btn-buy">Buy Tickets</a>
+          </div>
+        </div>
+               
+                <div class="places-item">
+         <img src="/img/sf.jpg" alt="NY" class="places-img"/>
+          <div class="places-body">
+            <p><b>San Francisco</b></p>
+            <p class="slg">Sun 29 Nov 2016</p>
+            <p>Praesent tincidunt sed tellus ut rutrum sed vitae justo.</p>
+              <a href="#" class="btn-buy">Buy Tickets</a>
+          </div>
+        </div>   
+        </div>
+                <div class="clear"></div>
+               </div>
+
+             
+        </div>
+            <div class="ct">
+               <h2 class="title">CONTACT</h2>
+               <p class="slg"> <i>Fan? Drop a note!</i></p>
+              
+               <div class="ct-dt row">
+                   <ul class="dt col-md-6">
+                       <li>Chicago, US</li>
+                       <li> Phone: +00 151515</li>
+                       <li>Email: mail@mail.com</li>
+                   </ul>
+                   <div class="txtbox">
+                       <div class="txt-1-2">
+                             <input class="txtname" type="text" placeholder="Name" style="padding:8px ;" />
+                             <input class="txtemail" type="text" placeholder="Email" style="padding:8px ;" />
+                       </div>
+                        <input class="txtmes" type="text" placeholder="Message" style="width:395px; padding:8px; margin-top:5px" />
+                   </div>
                    
                </div>
-               
-               
+                <a href="#" class="btn-send">Send</a>
+                 <div class="clear"></div>
+           </div>
+                <div class="footer">
+                    <img src="img/SAO.png" style="width:100%" />
+    </div>
+            <div class="ct">
+                <div class="footer">
+                <a class=" icon fa fa-facebook-official " style="font-size:24px"></a>
+                <a class="fa fa-instagram icon " style="font-size:24px"></a>
+                <a class="fa fa-snapchat-square icon" style="font-size:24px"></a>
+                <a class="fa fa-pinterest-p icon" style="font-size:24px"></a>
+                <a class="fa fa-twitter icon" style="font-size:24px"></a>
+                <a class="fa fa-linkedin icon" style="font-size:24px"></a>
+                    </div>
+                <div>
+                    Copyright ©2021
                 </div>
-        </div>
+            </div>
+
     </form>
+
 </body>
+
 </html>
